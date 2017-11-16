@@ -24,7 +24,7 @@ li{
     padding: 0px 10px 0px 10px;
 }
 header{
-    background: url(images/galaxy.jpg);
+    background: url("images/galaxy.jpg");
     background-size: cover;
 }
 a{
