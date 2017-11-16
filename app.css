@@ -3,7 +3,7 @@ body {
 }
 h1{
     font-family: 'Londrina Sketch', cursive;
-    font-size: 50px;
+    font-size:50px;
     text-align: center;
 }
 h2{
@@ -28,7 +28,7 @@ header{
     background-size: cover;
 }
 a{
-    color:darkblue;
+    color: blue;
 }
 img{
     border:solid 5px #88209E;
