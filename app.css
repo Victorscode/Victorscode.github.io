@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(255, 0, 0)
+}
+h1{
+    font-family: 'Londrina Sketch', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    font-family: 'Cabin sketch', cursive;
+    font-size:30px;
+}
+p{
+    font-family: 'Shadows into light', cursive;
+    font-size:20px;
+    padding: 10px;
+}
+ul{
+    padding: 10px;
+    text-align:center;
+}
+li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+header{
+    background: url(images/galaxy.jpg);
+    background-size: cover;
+}
+a{
+    color:darkblue;
+}
+img{
+    border:solid 5px #88209E;
+    border-radius:15%;
+}
+.button{
+    
+}
